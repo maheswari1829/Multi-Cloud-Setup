@@ -1,0 +1,10 @@
+EC2/
+IAM/
+VPC/
+S3/
+Route53/
+CloudWatch/
+EKS/
+LoadBalancer/
+CLI/
+Architecture/
